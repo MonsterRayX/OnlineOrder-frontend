@@ -1,10 +1,4 @@
-This project is the frontend of Online Order project. It works with OnlineOrder-backend.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+This project is the frontend of Online Order project. It works with OnlineOrder-backend. It is also integrated into OnlineOrder-backend.
 
 In the project directory, you can run:
 
